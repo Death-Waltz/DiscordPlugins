@@ -1,1 +1,1 @@
-"# DiscordPlugins" 
+"Death Walt's Discord Plugins" 
